@@ -3,7 +3,6 @@
 pragma solidity 0.8.17;
 
 contract Wallet {
-
     PaymentReceived public payment;
 
     function PayContract() public payable {
@@ -46,6 +45,9 @@ contract Wallet2 {
     }
 }
 
+// This contract inherits the PaymentReceived2 contract, that can then be used
+// to access to public objects within the contract and there is no overhead
+// in gas fees when using it this way.
 contract Wallet3 is PaymentReceived2 {
     PaymentReceivedStruct public payment;
 

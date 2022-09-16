@@ -1,0 +1,90 @@
+{
+	"compiler": {
+		"version": "0.7.0+commit.9e61f92b"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "balanceReceived",
+				"outputs": [
+					{
+						"internalType": "uint8",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "deposit",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "_to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint8",
+						"name": "_amount",
+						"type": "uint8"
+					}
+				],
+				"name": "withdrawl",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/exceptions/AssertExample.sol": "AssertExample"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/exceptions/AssertExample.sol": {
+			"keccak256": "0x53298e8708def18f6dde4007ffb06b0bf5b8459cada40ae44bbff5dc43ff89d3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fd8bfb1563c2c68bbab5d30d13b4a633f28fd67cc645830927c04d09fd4cdb10",
+				"dweb:/ipfs/QmVFnFrFrt2MV3Gsrj8aygstTKScY9FhMXhK8UcxgYend3"
+			]
+		}
+	},
+	"version": 1
+}

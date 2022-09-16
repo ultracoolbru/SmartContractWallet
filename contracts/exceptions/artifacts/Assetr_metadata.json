@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/exceptions/AssertExample.sol": "Assetr"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/exceptions/AssertExample.sol": {
+			"keccak256": "0x99ca325124f7d56b9f7e0d4feb3ef6e3afad928f9f80c466268382b3e4d1395e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c83fa0d6b4d52edcd8436b466f9fcb178334cc4dda92ef1df1d3d6d932daa699",
+				"dweb:/ipfs/QmZKAt2YcuZ7NU8VFw4xn1Zfu1VUAH4DvKd6xfAzCM4pCw"
+			]
+		}
+	},
+	"version": 1
+}

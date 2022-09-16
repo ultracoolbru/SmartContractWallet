@@ -86,11 +86,11 @@
 	},
 	"sources": {
 		"contracts/examples/MappingExampleWithdrawals.sol": {
-			"keccak256": "0x56fc02a80086033801938deadef5330662928083ed7b87460c9338a7f2057a1f",
+			"keccak256": "0xdb7c9bc7d805a39082eddbd9fe470949b2541b860a3911beef885e50e4a1f18a",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a3b444379b622e436d0ee63bb504ff1c24899777e0ea48836db10f0706ee0592",
-				"dweb:/ipfs/Qma2SaHUUVfqWFQpyCehasiMKomdLyRnhnzveXPZz5jJ7U"
+				"bzz-raw://5b3820d64620ece4dbf25efa07f975199d7691ab3e628972c5537d273235bd18",
+				"dweb:/ipfs/Qmf4xP3bPUy1oG4Mw2gN6K1YDyHZDGUT9RgKysKxpE1rjs"
 			]
 		}
 	},

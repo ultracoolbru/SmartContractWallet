@@ -2,6 +2,8 @@
 
 pragma solidity 0.8.17;
 
+// A "real-world" example of how to combine the use of mappings and structs and how to access
+// a mapping when managing relevant items in a struct.
 contract MappingStructExample {
 
     struct Transaction {
