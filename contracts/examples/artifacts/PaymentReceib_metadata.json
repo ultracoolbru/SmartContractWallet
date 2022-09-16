@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/examples/StructExample.sol": "StructExample"
+			"contracts/examples/StructExample.sol": "PaymentReceib"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/examples/StructExample.sol": {
-			"keccak256": "0xc581b60e746004ebadc4e53307ff842d66c0a2190ee73b8332fc05deaebd5a2f",
+			"keccak256": "0xd8f9595bb5ea3e273e7ae7e11ada3f121963bc3b36aba14a5778d939f17ee030",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://585ff2d24ded37b109d3a7baac444029d4b05c757f65ff3d2d724c6db8d7175c",
-				"dweb:/ipfs/QmPx64yrX6HMvbaP5BWFMLpt5fN43AhfxGUKGrWsGwXr17"
+				"bzz-raw://9165dec1f75e9140d5101abd6de9b7dffad8ae6c514df03c67cc86202a7a3158",
+				"dweb:/ipfs/QmThuBAgLFSYz1rgZYYyi1RSsqhDLNP5gX62HQ9V6q8gRg"
 			]
 		}
 	},
