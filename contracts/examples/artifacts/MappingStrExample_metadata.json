@@ -124,7 +124,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/examples/MappingStructExample.sol": "MappingExample"
+			"contracts/examples/MappingStructExample.sol": "MappingStrExample"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -139,11 +139,11 @@
 	},
 	"sources": {
 		"contracts/examples/MappingStructExample.sol": {
-			"keccak256": "0x751dc126ce36cd27b3d67d5695e606c9bd75a0e7ef8bd75357e047bf75514a9e",
+			"keccak256": "0xf1acf840f82c68e5c6463bc3a6ccebff93cde0c94f786821339057623fc6cce2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5e082d0acc78c255ee5ba1aff35dce5d635efb221dd2d86fb4577f4ee8f551aa",
-				"dweb:/ipfs/QmebbAJ6PHTVDc9bfA9KVwMKsG8DaSo5CTQgdWmfVaEBAr"
+				"bzz-raw://f13c7d1e98dcf8f7384965b4f31734bf7bbe1c78af06c285142778ed6dce1560",
+				"dweb:/ipfs/QmbQGeuXdawHd96BfYMtE1YQF3Jt4xNvbydKf6GK8MwJr9"
 			]
 		}
 	},
