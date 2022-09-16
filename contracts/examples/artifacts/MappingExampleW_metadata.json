@@ -124,7 +124,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/examples/StructExample.sol": "MappingExample"
+			"contracts/examples/MappingExample2.sol": "MappingExampleW"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -138,12 +138,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/examples/StructExample.sol": {
-			"keccak256": "0x751dc126ce36cd27b3d67d5695e606c9bd75a0e7ef8bd75357e047bf75514a9e",
+		"contracts/examples/MappingExample2.sol": {
+			"keccak256": "0xfc57098d389adef76c9754d47f44fc21b205c60aed7a9d05f0535cc4e2d9f5fd",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://5e082d0acc78c255ee5ba1aff35dce5d635efb221dd2d86fb4577f4ee8f551aa",
-				"dweb:/ipfs/QmebbAJ6PHTVDc9bfA9KVwMKsG8DaSo5CTQgdWmfVaEBAr"
+				"bzz-raw://da6ed3a32a23bdce38ac5f41d3874cc182145aa73fb8e05dcd24bfa65823b7d3",
+				"dweb:/ipfs/QmSZquWBzELbftXfRsQUu1kt2Eb1G6Zarodzxa5CLDYM9r"
 			]
 		}
 	},
